@@ -5,4 +5,4 @@ contract Token {
     /// @return total amount of tokens
     function totalSupply() constant returns (uint256 supply) {}
 
-    /// @
+    /// @param _
