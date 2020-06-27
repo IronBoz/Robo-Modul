@@ -7,3 +7,4 @@ contract Token {
 
     /// @param _owner The address from which the balance will be retrieved
     /// @return The balance
+    
