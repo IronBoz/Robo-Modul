@@ -6,4 +6,4 @@ contract Token {
     function totalSupply() constant returns (uint256 supply) {}
 
     /// @param _owner The address from which the balance will be retrieved
-    /// @return 
+    /// @return The ba
