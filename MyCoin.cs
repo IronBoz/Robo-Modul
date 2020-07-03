@@ -7,4 +7,4 @@ contract Token {
 
     /// @param _owner The address from which the balance will be retrieved
     /// @return The balance
-    function balanceOf(address _owner) consta
+    function balanceOf(address _owner) constant r
