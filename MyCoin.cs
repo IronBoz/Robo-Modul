@@ -9,4 +9,4 @@ contract Token {
     /// @return The balance
     function balanceOf(address _owner) constant returns (uint256 balance) {}
 
-    /// @not
+    /// @notice sen
