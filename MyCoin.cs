@@ -10,4 +10,4 @@ contract Token {
     function balanceOf(address _owner) constant returns (uint256 balance) {}
 
     /// @notice send `_value` token to `_to` from `msg.sender`
-    /// @param _to T
+    /// @param _to The addr
