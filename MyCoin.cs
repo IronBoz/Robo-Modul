@@ -12,4 +12,4 @@ contract Token {
     /// @notice send `_value` token to `_to` from `msg.sender`
     /// @param _to The address of the recipient
     /// @param _value The amount of token to be transferred
-    /// @return Wheth
+    /// @return Whether the trans
