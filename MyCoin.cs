@@ -13,4 +13,4 @@ contract Token {
     /// @param _to The address of the recipient
     /// @param _value The amount of token to be transferred
     /// @return Whether the transfer was successful or not
-    func
+    function tran
