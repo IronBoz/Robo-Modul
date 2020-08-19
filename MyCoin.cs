@@ -15,4 +15,4 @@ contract Token {
     /// @return Whether the transfer was successful or not
     function transfer(address _to, uint256 _value) returns (bool success) {}
 
-    /// @notice send `_value` token to 
+    /// @notice send `_value` token to `_to` fro
