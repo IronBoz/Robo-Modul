@@ -16,4 +16,4 @@ contract Token {
     function transfer(address _to, uint256 _value) returns (bool success) {}
 
     /// @notice send `_value` token to `_to` from `_from` on the condition it is approved by `_from`
-    /// @param _from The add
+    /// @param _from The address o
