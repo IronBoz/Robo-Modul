@@ -17,3 +17,4 @@ contract Token {
 
     /// @notice send `_value` token to `_to` from `_from` on the condition it is approved by `_from`
     /// @param _from The address of the sender
+    ///
