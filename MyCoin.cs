@@ -19,4 +19,4 @@ contract Token {
     /// @param _from The address of the sender
     /// @param _to The address of the recipient
     /// @param _value The amount of token to be transferred
-    /// @return
+    /// @return Wheth
