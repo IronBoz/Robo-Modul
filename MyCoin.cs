@@ -20,4 +20,4 @@ contract Token {
     /// @param _to The address of the recipient
     /// @param _value The amount of token to be transferred
     /// @return Whether the transfer was successful or not
-    function transferFrom(address _from, address _to, uint256 _v
+    function transferFrom(address _from, address _to, uint256 _value) re
