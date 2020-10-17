@@ -22,4 +22,4 @@ contract Token {
     /// @return Whether the transfer was successful or not
     function transferFrom(address _from, address _to, uint256 _value) returns (bool success) {}
 
-    /// @notice `msg.sender` app
+    /// @notice `msg.sender` approves `_addr
