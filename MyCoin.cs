@@ -24,4 +24,5 @@ contract Token {
 
     /// @notice `msg.sender` approves `_addr` to spend `_value` tokens
     /// @param _spender The address of the account able to transfer the tokens
-    /// @param _value The amount of wei to be approved for tra
+    /// @param _value The amount of wei to be approved for transfer
+    
