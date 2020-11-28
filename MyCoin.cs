@@ -26,4 +26,4 @@ contract Token {
     /// @param _spender The address of the account able to transfer the tokens
     /// @param _value The amount of wei to be approved for transfer
     /// @return Whether the approval was successful or not
-    function approve(a
+    function approve(address _sp
