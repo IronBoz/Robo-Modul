@@ -28,4 +28,5 @@ contract Token {
     /// @return Whether the approval was successful or not
     function approve(address _spender, uint256 _value) returns (bool success) {}
 
-    /// @param _owner The address of the account owning tok
+    /// @param _owner The address of the account owning tokens
+    /
