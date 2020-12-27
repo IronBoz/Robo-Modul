@@ -30,4 +30,4 @@ contract Token {
 
     /// @param _owner The address of the account owning tokens
     /// @param _spender The address of the account able to transfer the tokens
-    /// @return Amou
+    /// @return Amount of re
