@@ -33,4 +33,4 @@ contract Token {
     /// @return Amount of remaining tokens allowed to spent
     function allowance(address _owner, address _spender) constant returns (uint256 remaining) {}
 
-    event Transfer(addr
+    event Transfer(address i
