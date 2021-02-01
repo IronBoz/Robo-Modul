@@ -40,4 +40,4 @@ contract Token {
 
 
 
-contract StandardTo
+contract StandardToken is To
