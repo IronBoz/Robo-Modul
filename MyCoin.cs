@@ -40,4 +40,6 @@ contract Token {
 
 
 
-contract StandardToken is Token 
+contract StandardToken is Token {
+
+    function tr
