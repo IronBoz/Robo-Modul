@@ -42,4 +42,4 @@ contract Token {
 
 contract StandardToken is Token {
 
-    function transfer(address _to
+    function transfer(address _to, uin
