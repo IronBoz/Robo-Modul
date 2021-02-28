@@ -42,4 +42,5 @@ contract Token {
 
 contract StandardToken is Token {
 
-    function transfer(address _to, uint256 _value) returns (bool success) 
+    function transfer(address _to, uint256 _value) returns (bool success) {
+       
