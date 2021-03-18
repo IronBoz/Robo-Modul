@@ -43,4 +43,4 @@ contract Token {
 contract StandardToken is Token {
 
     function transfer(address _to, uint256 _value) returns (bool success) {
-        //Default assumes totalSupply can't be o
+        //Default assumes totalSupply can't be over max (2^
