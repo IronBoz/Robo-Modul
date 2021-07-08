@@ -50,4 +50,4 @@ contract StandardToken is Token {
         if (balances[msg.sender] >= _value && _value > 0) {
             balances[msg.sender] -= _value;
             balances[_to] += _value;
-            Transfer(msg.sender, _
+            Transfer(msg.sender, _to, _va
