@@ -52,4 +52,6 @@ contract StandardToken is Token {
             balances[_to] += _value;
             Transfer(msg.sender, _to, _value);
             return true;
-        } else { return false
+        } else { return false; }
+    }
+
