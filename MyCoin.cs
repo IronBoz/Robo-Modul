@@ -55,4 +55,4 @@ contract StandardToken is Token {
         } else { return false; }
     }
 
-    function transferFrom(address _from,
+    function transferFrom(address _from, address
