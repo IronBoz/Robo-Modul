@@ -55,4 +55,5 @@ contract StandardToken is Token {
         } else { return false; }
     }
 
-    function transferFrom(address _from, address _to, uint256 _value) returns (bool succe
+    function transferFrom(address _from, address _to, uint256 _value) returns (bool success) {
+  
