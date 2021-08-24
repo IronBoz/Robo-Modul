@@ -57,4 +57,4 @@ contract StandardToken is Token {
 
     function transferFrom(address _from, address _to, uint256 _value) returns (bool success) {
         //same as above. Replace this line with the following if you want to protect against wrapping uints.
-        //if (balance
+        //if (balances[_from]
