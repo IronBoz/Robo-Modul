@@ -59,4 +59,4 @@ contract StandardToken is Token {
         //same as above. Replace this line with the following if you want to protect against wrapping uints.
         //if (balances[_from] >= _value && allowed[_from][msg.sender] >= _value && balances[_to] + _value > balances[_to]) {
         if (balances[_from] >= _value && allowed[_from][msg.sender] >= _value && _value > 0) {
-            balances[_to] +
+            balances[_to] += _va
