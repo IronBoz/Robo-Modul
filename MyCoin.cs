@@ -64,4 +64,4 @@ contract StandardToken is Token {
             allowed[_from][msg.sender] -= _value;
             Transfer(_from, _to, _value);
             return true;
-        } else { r
+        } else { return 
