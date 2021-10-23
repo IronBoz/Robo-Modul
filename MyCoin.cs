@@ -65,4 +65,6 @@ contract StandardToken is Token {
             Transfer(_from, _to, _value);
             return true;
         } else { return false; }
-  
+    }
+
+   
