@@ -67,4 +67,4 @@ contract StandardToken is Token {
         } else { return false; }
     }
 
-    function bala
+    function balanceOf(add
