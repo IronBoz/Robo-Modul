@@ -67,4 +67,4 @@ contract StandardToken is Token {
         } else { return false; }
     }
 
-    function balanceOf(address _owner) constant returns (uint256 balance
+    function balanceOf(address _owner) constant returns (uint256 balance) {
