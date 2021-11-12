@@ -71,4 +71,4 @@ contract StandardToken is Token {
         return balances[_owner];
     }
 
-    function approve(addre
+    function approve(address _sp
