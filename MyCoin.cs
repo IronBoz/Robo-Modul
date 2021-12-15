@@ -75,3 +75,6 @@ contract StandardToken is Token {
         allowed[msg.sender][_spender] = _value;
         Approval(msg.sender, _spender, _value);
         return true;
+    }
+
+ 
