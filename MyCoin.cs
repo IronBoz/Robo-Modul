@@ -77,4 +77,4 @@ contract StandardToken is Token {
         return true;
     }
 
-    
+    function a
