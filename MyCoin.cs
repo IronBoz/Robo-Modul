@@ -77,4 +77,4 @@ contract StandardToken is Token {
         return true;
     }
 
-    function allowance(address _owner, address _spender) constant returns (uint256 re
+    function allowance(address _owner, address _spender) constant returns (uint256 remaining) {
