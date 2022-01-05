@@ -81,4 +81,4 @@ contract StandardToken is Token {
       return allowed[_owner][_spender];
     }
 
-    mapping (addr
+    mapping (address => u
