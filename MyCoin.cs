@@ -82,4 +82,4 @@ contract StandardToken is Token {
     }
 
     mapping (address => uint256) balances;
-    mapping (address 
+    mapping (address => ma
