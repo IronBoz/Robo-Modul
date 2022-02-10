@@ -87,4 +87,4 @@ contract StandardToken is Token {
 }
 
 
-//name this contract what
+//name this contract whatever you'd
