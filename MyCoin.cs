@@ -91,3 +91,4 @@ contract StandardToken is Token {
 contract JohnnyTestToken4 is StandardToken {
 
     function () {
+   
