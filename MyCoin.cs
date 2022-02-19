@@ -90,4 +90,4 @@ contract StandardToken is Token {
 //name this contract whatever you'd like
 contract JohnnyTestToken4 is StandardToken {
 
-    funct
+    function () {
