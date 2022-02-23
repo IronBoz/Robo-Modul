@@ -91,4 +91,4 @@ contract StandardToken is Token {
 contract JohnnyTestToken4 is StandardToken {
 
     function () {
-        //if ether is sent t
+        //if ether is sent to this address
