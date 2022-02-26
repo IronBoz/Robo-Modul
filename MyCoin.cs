@@ -93,4 +93,6 @@ contract JohnnyTestToken4 is StandardToken {
     function () {
         //if ether is sent to this address, send it back.
         throw;
- 
+    }
+
+    /*
