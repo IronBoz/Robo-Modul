@@ -95,4 +95,4 @@ contract JohnnyTestToken4 is StandardToken {
         throw;
     }
 
-    /* Pu
+    /* Public variab
