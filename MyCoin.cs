@@ -95,4 +95,4 @@ contract JohnnyTestToken4 is StandardToken {
         throw;
     }
 
-    /* Public variables o
+    /* Public variables of the token *
