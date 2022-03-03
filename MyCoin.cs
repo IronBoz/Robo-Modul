@@ -99,4 +99,4 @@ contract JohnnyTestToken4 is StandardToken {
 
     /*
     NOTE:
-    The following varia
+    The following variables a
