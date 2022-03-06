@@ -99,4 +99,4 @@ contract JohnnyTestToken4 is StandardToken {
 
     /*
     NOTE:
-    The following variables are OPTION
+    The following variables are OPTIONAL vaniti
