@@ -99,4 +99,4 @@ contract JohnnyTestToken4 is StandardToken {
 
     /*
     NOTE:
-    The following variables are OPTIONAL vanities. One does not ha
+    The following variables are OPTIONAL vanities. One does not have to
