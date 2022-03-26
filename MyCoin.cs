@@ -100,4 +100,4 @@ contract JohnnyTestToken4 is StandardToken {
     /*
     NOTE:
     The following variables are OPTIONAL vanities. One does not have to include them.
-    They allow one to customise the token contra
+    They allow one to customise the token contract & in n
