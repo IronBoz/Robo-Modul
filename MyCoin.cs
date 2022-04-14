@@ -103,4 +103,4 @@ contract JohnnyTestToken4 is StandardToken {
     They allow one to customise the token contract & in no way influences the core functionality.
     Some wallets/interfaces might not even bother to look at this information.
     */
-    string public name;                 
+    string public name;                   //fa
