@@ -104,4 +104,4 @@ contract JohnnyTestToken4 is StandardToken {
     Some wallets/interfaces might not even bother to look at this information.
     */
     string public name;                   //fancy name: eg Simon Bucks
-    uint8 public decimals;    
+    uint8 public decimals;             
