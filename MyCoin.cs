@@ -109,4 +109,6 @@ contract JohnnyTestToken4 is StandardToken {
     string public version = 'H1.0';       //human 0.1 standard. Just an arbitrary versioning scheme.
 
 //
-// CHANGE THESE VALUES FOR YOU
+// CHANGE THESE VALUES FOR YOUR TOKEN
+//
+
