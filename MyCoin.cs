@@ -112,3 +112,4 @@ contract JohnnyTestToken4 is StandardToken {
 // CHANGE THESE VALUES FOR YOUR TOKEN
 //
 
+//make sure
