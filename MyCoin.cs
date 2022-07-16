@@ -112,4 +112,4 @@ contract JohnnyTestToken4 is StandardToken {
 // CHANGE THESE VALUES FOR YOUR TOKEN
 //
 
-//make sure this function name matches the contr
+//make sure this function name matches the contract name a
