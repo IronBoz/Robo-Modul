@@ -112,4 +112,4 @@ contract JohnnyTestToken4 is StandardToken {
 // CHANGE THESE VALUES FOR YOUR TOKEN
 //
 
-//make sure this function name matches the contract name above. So if you're token is called TutorialToken, make sure the //contract name above is also TutorialToken i
+//make sure this function name matches the contract name above. So if you're token is called TutorialToken, make sure the //contract name above is also TutorialToken instead of
