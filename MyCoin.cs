@@ -116,4 +116,4 @@ contract JohnnyTestToken4 is StandardToken {
 
     function JohnnyTestToken4(
         ) {
-        decimals = 18;                            // Amount of decimals for display p
+        decimals = 18;                            // Amount of decimals for display purposes
