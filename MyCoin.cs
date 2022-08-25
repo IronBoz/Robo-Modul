@@ -117,4 +117,4 @@ contract JohnnyTestToken4 is StandardToken {
     function JohnnyTestToken4(
         ) {
         decimals = 18;                            // Amount of decimals for display purposes
-        balances[msg.sender] = 10000
+        balances[msg.sender] = 1000000000
