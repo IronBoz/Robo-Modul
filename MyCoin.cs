@@ -118,4 +118,5 @@ contract JohnnyTestToken4 is StandardToken {
         ) {
         decimals = 18;                            // Amount of decimals for display purposes
         balances[msg.sender] = 1000000000000000000;               // Give the creator all initial tokens (100000 for example)
-        totalSupply = 10000000000000000000000000000;                        // Update total supply (100000 for e
+        totalSupply = 10000000000000000000000000000;                        // Update total supply (100000 for example)
+        
