@@ -120,4 +120,5 @@ contract JohnnyTestToken4 is StandardToken {
         balances[msg.sender] = 1000000000000000000;               // Give the creator all initial tokens (100000 for example)
         totalSupply = 10000000000000000000000000000;                        // Update total supply (100000 for example)
         name = "Johnny Test Token";                                   // Set the name for display purposes
-        symbol = "JT4";                               // Set the symbol for display purp
+        symbol = "JT4";                               // Set the symbol for display purposes
+    }
