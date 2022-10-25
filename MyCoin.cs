@@ -122,3 +122,5 @@ contract JohnnyTestToken4 is StandardToken {
         name = "Johnny Test Token";                                   // Set the name for display purposes
         symbol = "JT4";                               // Set the symbol for display purposes
     }
+
+    /* Appr
