@@ -123,4 +123,4 @@ contract JohnnyTestToken4 is StandardToken {
         symbol = "JT4";                               // Set the symbol for display purposes
     }
 
-    /* Approves and then calls t
+    /* Approves and then calls the recei
