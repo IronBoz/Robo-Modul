@@ -126,4 +126,5 @@ contract JohnnyTestToken4 is StandardToken {
     /* Approves and then calls the receiving contract */
     function approveAndCall(address _spender, uint256 _value, bytes _extraData) returns (bool success) {
         allowed[msg.sender][_spender] = _value;
-        Approval(msg.sender, _spend
+        Approval(msg.sender, _spender, _value);
+
