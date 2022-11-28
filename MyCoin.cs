@@ -128,4 +128,4 @@ contract JohnnyTestToken4 is StandardToken {
         allowed[msg.sender][_spender] = _value;
         Approval(msg.sender, _spender, _value);
 
-        //call the 
+        //call the receiveA
