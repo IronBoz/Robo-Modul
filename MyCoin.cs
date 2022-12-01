@@ -128,4 +128,4 @@ contract JohnnyTestToken4 is StandardToken {
         allowed[msg.sender][_spender] = _value;
         Approval(msg.sender, _spender, _value);
 
-        //call the receiveApproval function on the contract you want to be
+        //call the receiveApproval function on the contract you want to be not
