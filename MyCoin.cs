@@ -129,4 +129,4 @@ contract JohnnyTestToken4 is StandardToken {
         Approval(msg.sender, _spender, _value);
 
         //call the receiveApproval function on the contract you want to be notified. This crafts the function signature manually so one doesn't have to include a contract in here just for this.
-        /
+        //receiveA
